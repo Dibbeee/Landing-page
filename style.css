@@ -140,3 +140,8 @@ p {
     text-align: center;
     padding: 24px 0;
 }
+
+.adv-btn,
+.intro-btn, a {
+    font-size: 13px;
+}
