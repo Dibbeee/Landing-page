@@ -5,7 +5,7 @@
 }
 
 body {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .top-container,
@@ -128,7 +128,14 @@ width: 400px;
     border: 1px solid white;
 }
 
-.text {
+ .text{
     color: #f9faf8;
 }
 
+p {
+    color: #e5e7eb;
+}
+
+.footer {
+    height: 100%;
+}
