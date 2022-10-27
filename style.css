@@ -32,3 +32,30 @@ a,
     gap: 20px;
 }
 
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.introduction {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.left-container,
+.intro.image {
+width: 400px;
+}
+
+.btn {
+    color: #f9faf8;
+    background: #3882f6;
+    padding: 8px 25px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
